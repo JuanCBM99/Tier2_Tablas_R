@@ -1,3 +1,4 @@
+#
 archivo <- "C:/Users/juancarlos.baez/Desktop/PhD General/Ejercicio_Inventario_GEI_esp/Tablas_R_Tier_2.xlsx"
 
 sheets <- excel_sheets(archivo)
